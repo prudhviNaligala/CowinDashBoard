@@ -1,0 +1,11 @@
+.vaccination-coverage-container {
+  background-color: #1c1c2b;
+  width: 100%;
+  border-radius: 10px;
+  padding: 15px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+h1 {
+  color: #6c757d;
+}

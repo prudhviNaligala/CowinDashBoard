@@ -1,0 +1,49 @@
+.app-container {
+  background-color: #161625;
+  min-height: 100vh;
+  padding: 45px;
+}
+* {
+  margin: 0;
+}
+.container {
+  display: flex;
+  margin-bottom: 30px;
+}
+.logo {
+  height: 40px;
+  width: 40px;
+  margin-right: 12px;
+}
+.title {
+  color: #2cc6c6;
+  font-family: 'Roboto';
+}
+.failure {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+.head {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+}
+
+.failure-pic {
+  height: 400px;
+  margin-bottom: 35px;
+}
+.failure-msg {
+  font-family: 'Bree serif';
+  color: #cbd5e1;
+  font-size: 19px;
+}
